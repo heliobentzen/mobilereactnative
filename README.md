@@ -1,6 +1,6 @@
-# Curso Intensivo de React Native - Do Zero ao App
+# React Native
 
-Bem-vindo ao repositório do nosso curso intensivo de React Native! Este curso foi projetado para levar você do básico à criação de aplicativos móveis completos para iOS e Android em apenas 3 meses.
+Bem-vindo ao repositório de React Native! Este curso foi projetado para levar você do básico à criação de aplicativos móveis completos para iOS e Android.
 
 ## Ementa do Curso
 
